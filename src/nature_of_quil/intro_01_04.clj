@@ -1,4 +1,4 @@
-(ns nature-of-quil.intro_01_04.clj
+(ns nature-of-quil.intro_01_04
   (:require [quil.core :as q]))
       
 

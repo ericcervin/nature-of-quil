@@ -1,4 +1,4 @@
-(ns nature-of-quil.core
+(ns nature-of-quil.intro_01_01
   (:require [quil.core :as q]
             [quil.middleware :as m]))
 
